@@ -50,6 +50,7 @@ ma'lumotlari bilan sinab ko'rishingiz mumkin.
 | `dilnoza21` | `Dilnoza1!` |
 | `javohir07` | `Javohir1!` |
 | `malika_b` | `Malika1!` |
+| `nozim2109` | `Nozimjon2109!` |
 
 Login qilish: `POST /auth/login` — javobda kelgan `access` tokenini
 Swagger UI'dagi "Authorize" tugmasi orqali `Bearer <token>` ko'rinishida kiriting.
